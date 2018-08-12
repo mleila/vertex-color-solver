@@ -46,7 +46,7 @@ solver.solve('IP')
 view solution
 ```python
  print(solver.solution)
- [[0, 1], [1, 2], [2, 1], [3, 0], [4, 0]]
+ [[0, 1], [1, 0], [2, 1], [3, 0], [4, 0]]
 ```
 where the solution is in the format [vertex index, color]
 ![alt text](https://github.com/mleila/vertex-color-solver/blob/master/assets/colored_undirected_graph.png)
