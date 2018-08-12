@@ -35,7 +35,7 @@ adj_matrix = [
  ]
 solver = Solver(adj_matrix)
 ```
-![alt text](https://github.com/mleila/vertex-color-solver/assets/undirected_graph.png)
+![alt text](https://github.com/mleila/vertex-color-solver/blob/master/assets/undirected_graph.png)
 
 choose the backend model/algorithm
 ```python
@@ -49,4 +49,4 @@ view solution
  [[0, 1], [1, 2], [2, 1], [3, 0], [4, 0]]
 ```
 where the solution is in the format [vertex index, color]
-![alt text](https://github.com/mleila/vertex-color-solver/assets/colored_undirected_graph.png)
+![alt text](https://github.com/mleila/vertex-color-solver/blob/master/assets/colored_undirected_graph.png)
