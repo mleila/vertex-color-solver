@@ -27,7 +27,7 @@ pass an undirected graph represented as an adjacency matrix to the solver
 
 ```python
 adj_matrix = [
-	[1, 1, 0, 0, 0],
+    [1, 1, 0, 0, 0],
     [1, 1, 1, 0, 0],
     [0, 1, 1, 1, 1],
     [0, 0, 1, 1, 0],
