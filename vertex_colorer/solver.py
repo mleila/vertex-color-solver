@@ -49,4 +49,4 @@ class Solver:
         pass
 
     def list_solvers(self):
-        return SOLVERS.keys()
+        return list(SOLVERS.keys())
