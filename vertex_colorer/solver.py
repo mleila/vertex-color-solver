@@ -47,3 +47,6 @@ class Solver:
 
     def write_solution(self, fpath):
         pass
+
+    def list_solvers(self):
+        return SOLVERS.keys()
